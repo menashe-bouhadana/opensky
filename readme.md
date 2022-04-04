@@ -5,7 +5,7 @@ Compact and light weather app created in React Native that uses your current loc
 
 
 ## Screenshots
-<img src="https://i.ibb.co/cQ8JrPW/opensky.png" alt="Screenshot" width="200"/>
+<img src="https://i.ibb.co/cQ8JrPW/opensky.png" alt="Screenshot" width="400"/>
 
 
 
